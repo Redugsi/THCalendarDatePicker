@@ -10,6 +10,9 @@ let package = Package(
       name: "THCalendarDatePicker",
       targets: ["THCalendarDatePicker"]),
   ],
+  dependencies: [
+    .package(url: "https://github.com/Redugsi/KNSemiModalViewController.git", branch: "main"),
+  ],
   targets: [
     .target(
       name: "THCalendarDatePicker",

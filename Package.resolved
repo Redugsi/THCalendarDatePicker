@@ -1,0 +1,15 @@
+{
+  "originHash" : "5a80f1b230a372159644b92fb86378f63cb48400ed74c9adebabc03c71338106",
+  "pins" : [
+    {
+      "identity" : "knsemimodalviewcontroller",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Redugsi/KNSemiModalViewController.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "e4eca253d095660b9de68e34a26aea54bf03b509"
+      }
+    }
+  ],
+  "version" : 3
+}
